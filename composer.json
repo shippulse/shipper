@@ -1,0 +1,17 @@
+{
+    "name": "shippulse/shipper",
+    "description": "shipper",
+    "autoload": {
+        "psr-4": {
+            "Obelaw\\Shippulse\\Shipper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Karim Mohamed",
+            "email": "komicho1996@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
